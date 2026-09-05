@@ -1,0 +1,15 @@
+.reelContainer {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 130px;
+    height: 210px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.slotMachine {
+    display: flex;
+    justify-content: center;
+}
